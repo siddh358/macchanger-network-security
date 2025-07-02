@@ -39,7 +39,7 @@ This project demonstrates the use of the `macchanger` tool in Kali Linux to simu
 This simulation validated the effectiveness of MAC spoofing and how it can be monitored using a SIEM. It reinforced the importance of real-time endpoint monitoring and anomaly detection for network security teams.
 
 ## 📄 Report
-[Click here to view the full PDF report](./Project_Report_MAC_Changer.pdf)
+[Click here to view the full PDF report](./Project_Report_MAC_Changer.pdf) <br></br>
 [Click here to view wazuh_agent_report](./wazuh_agent_report.pdf)
 
 ## 👨‍💻 Contributors
