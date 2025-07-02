@@ -40,6 +40,7 @@ This simulation validated the effectiveness of MAC spoofing and how it can be mo
 
 ## 📄 Report
 [Click here to view the full PDF report](./Project_Report_MAC_Changer.pdf)
+[Click here to view wazuh_agent_report](./wazuh_agent_report.pdf)
 
 ## 👨‍💻 Contributors
 - Siddharth Anilrao Lone
